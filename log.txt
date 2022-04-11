@@ -1,8 +1,0 @@
-D:\Python\Python_life_hacks\Search_for_new_files\log.txt:05.04.2022 20:05:45
-D:\Python\Python_life_hacks\Search_for_new_files\main.py:05.04.2022 20:05:45
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\.gitignore:05.04.2022 18:58:42
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\misc.xml:05.04.2022 19:37:42
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\modules.xml:05.04.2022 19:37:42
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\Search_for_new_files.iml:05.04.2022 18:58:42
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\workspace.xml:05.04.2022 19:38:10
-D:\Python\Python_life_hacks\Search_for_new_files\.idea\inspectionProfiles\profiles_settings.xml:05.04.2022 18:58:42
